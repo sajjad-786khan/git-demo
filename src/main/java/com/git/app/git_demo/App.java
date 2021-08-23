@@ -12,7 +12,11 @@ public class App {
 		}
 	}
 	public void addName(){
-		System.out.println("Welcome Rock in new method()");
+		System.out.println("Welcome Rock in new method1()");
+	}
+	
+	public void addNewName(){
+		System.out.println("Welcome Jack in new method2()");
 	}
 
 	public static void main(String[] args) {
