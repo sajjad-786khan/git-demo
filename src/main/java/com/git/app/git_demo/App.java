@@ -11,6 +11,9 @@ public class App {
 			System.out.println("Welcome Mike");
 		}
 	}
+	public void addName(){
+		System.out.println("Welcome Rock in new method()");
+	}
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
