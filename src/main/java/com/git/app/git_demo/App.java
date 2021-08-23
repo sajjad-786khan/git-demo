@@ -17,6 +17,7 @@ public class App {
 	
 	public void addNewName(){
 		System.out.println("Welcome Jack in new method2()");
+		System.out.println("Welcome Jack Kalish in new method2()");
 	}
 
 	public static void main(String[] args) {
